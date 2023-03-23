@@ -1,2 +1,2 @@
 # TFTP
-An implementation of TFTP written in Python. Accepts arg arguments to define the listening and recieving ports. Accepts Read and Write requests.
+An implementation of TFTP written in Python. Program accepts parameters using arg parser and reads or writes to files using TFTP protocol.
